@@ -1,0 +1,15 @@
+* {
+  background-color: antiquewhite;
+}
+
+h1 {
+  background-color: rgb(73, 27, 11);
+  color: antiquewhite;
+  text-align: center;
+}
+
+h2 {
+  display: flex;
+  background-color: rgb(73, 27, 11);
+  color: antiquewhite;
+}

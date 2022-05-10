@@ -1,0 +1,20 @@
+* {
+  background-color: antiquewhite;
+}
+
+.title {
+  text-align: center;
+  background-color: rgb(73, 27, 11);
+  color: antiquewhite;
+  font-size: 32px;
+  padding: .25em;
+}
+
+ul > li > a {
+    color: rgb(73, 27, 11);
+    font-size: 18px;
+}
+
+ul > li {
+  padding: 4px;
+}
