@@ -6,10 +6,30 @@ h1 {
   background-color: rgb(73, 27, 11);
   color: antiquewhite;
   text-align: center;
+  font-size: 64px;
+
+}
+
+img {
+  display: block;
+  padding-bottom: 1rem;
 }
 
 h2 {
-  display: flex;
+  display: inline;
   background-color: rgb(73, 27, 11);
   color: antiquewhite;
+  font-size: 32px;
+}
+
+h3, li {
+  padding-left: 1rem;
+}
+
+h3 {
+  font-family: 'Brush Script MT', cursive;
+}
+
+p, li {
+  font-size: 22px;
 }
